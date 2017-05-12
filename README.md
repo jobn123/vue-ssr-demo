@@ -1,6 +1,6 @@
 # vue-ssr-demo
 
-> Nuxt.js project  vue-ssr-demo
+> use Nuxt.js to create vue-ssr-demo 
 
 ## Build Setup
 
